@@ -1,0 +1,21 @@
+EXERCÍCIO PRÁTICO 1 DO 4º BIMESTRE
+DUPLA: IGOR MENEGUCI CHAVES, ISADORA ROCHA BRITO
+
+
+
+Aplicativo de Música PLAYSONGS
+
+Neste aplicativo, artistas cadastrados podem disponibilizar seus hits famosos para ouvintes também cadastrados.
+A funcionalidade se desdobra da seguinte forma:
+
+- Cada artista precisa se cadastrar a partir de sua agência e registro; 
+- O cadastro do artista é único;
+- Cada artista, depois de cadastrado, precisa informar seu nome e sobrenome;
+- Artistas podem postar diversas músicas;
+- Cada música pertence somente a um (1) artista;
+- Ao ser postada, a música precisa informar o album/ep do qual faz parte, sua sua duração e  sua classifcação indicativa;
+- Uma mesma música pode ser escutada (ouvir) por diversos ouvintes;
+
+- Cada ouvinte precisa se cadastrar a partir de um E-mail e senha;
+- O cadastro do ouvinte é único;
+- Um ouvinte pode escutar (ouvir) diversas músicas.
